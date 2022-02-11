@@ -1,0 +1,31 @@
+
+.main3{
+    margin-top: 163px;
+}
+
+.main3-span1{
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 57px;
+    color: #56AF58;
+    margin-left: 72px;
+}
+
+.main3-span2{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 57px;
+    color: black;
+    margin-left: 12px;
+    
+}
+
+.main3-block1>p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 29px;
+    text-align: end;
+    max-width: 621px;
+    color: black;
+}

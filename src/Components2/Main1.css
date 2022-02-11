@@ -1,0 +1,42 @@
+.main1{
+    max-width: 1440px;
+    background: #EEF2FF;
+    display: flex;
+}
+
+.block4{
+    max-width: 645px;
+    padding-top: 112px;
+    padding-left: 30px;
+   
+
+}
+.block4>button{
+  margin-left: 191px;
+  margin-top: 66px;
+  margin-bottom: 98px;
+}
+
+.main1-span{
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 115px;
+    color: #56AF58;
+    border-bottom: 3px solid #56AF58;
+    text-align: center;
+}
+
+.main1-span2{
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 115px;
+    color: black;
+    text-align: center;
+}
+
+.block5>img{
+    width: 518px;
+    padding-top: 213px;
+}
+
+

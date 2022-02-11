@@ -1,0 +1,37 @@
+.footer-icon1{
+    color:  #56AF58;
+}
+
+.footer-parent{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.footer-block1{
+    margin-right: 206px;
+    padding-top: 38px;
+}
+
+.footer-block2{
+    margin-right: 190px;
+    padding-top: 38px;
+}
+
+.footer-p{
+    color: #56AF58;
+    
+}
+
+.footer-textEnd{
+    background-color: #EEF2FF;
+    margin-top: 167px;
+}
+.footer-textEnd>p{
+font-weight: normal;
+font-size: 22px;
+line-height: 25px;
+color: black;
+padding-top: 49px;
+padding-bottom: 49px;
+}
